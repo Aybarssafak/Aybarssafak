@@ -55,12 +55,12 @@
 </p>
 
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aybarssafak&show_icons=true&locale=tr&layout=compact" alt="aybarssafak" width="300"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aybarssafak&show_icons=true&locale=tr&layout=compact" alt="aybarssafak"/>
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aybarssafak&show_icons=true&locale=tr" alt="aybarssafak" width="300"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aybarssafak&show_icons=true&locale=tr" alt="aybarssafak" />
 
 
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aybarssafak&" alt="aybarssafak" width="300"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aybarssafak&" alt="aybarssafak" />
 
