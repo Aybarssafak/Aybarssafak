@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Aybarssafak</h1>
-<h3 align="center">Türkiye'den tutkulu bir web3</h3>
+<h3 align="center">Türkiye'den tutkulu bir web3 geliştiricisi</h3>
 
 - 🔭 Şu anda **React** üzerinde çalışıyorum
 
