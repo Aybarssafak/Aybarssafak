@@ -1,6 +1,8 @@
 <h1 align="center">Merhaba 👋, ben Aybarssafak</h1>
 <h3 align="center">Türkiye'den tutkulu bir web3 geliştiricisi</h3>
 
+- SMTAL'de Bilişim Teknolojileri Öğrencisi
+  
 - 🔭 Şu anda **React** üzerinde çalışıyorum
 
 - 📫 Bana nasıl ulaşabilirsiniz **safakaybars1@gmail.com**
